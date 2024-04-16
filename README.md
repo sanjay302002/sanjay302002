@@ -1,5 +1,5 @@
  ### Hi there 👋
-A.SANJAY! [Profile Picture](images/profile-picture.jpg)
+A.SANJAY! 
 
 DevOps Engineer
 Email: asanjayarumugam77@email.com
