@@ -1,4 +1,28 @@
-### Hi there 👋
+ ### Hi there 👋
+A.SANJAY! [Profile Picture](images/profile-picture.jpg)
+
+DevOps Engineer
+Email: asanjayarumugam77@email.com
+Phone: (+91) 6380853637 
+GitHub: [[github](https://github.com/sanjay302002])
+
+
+Skills:
+- Version Control (Git)
+- GitHub Actions
+- CI/CD Pipelines
+- Infrastructure as Code (IaC)
+
+<!--Experience:
+DevOps Engineer, ABC Tech
+- Implemented CI/CD pipelines using GitHub Actions.
+- Managed infrastructure configurations using GitHub repositories.-->
+
+
+Projects:
+- Project A: [github.com/sanajy302002/project-1](https://github.com/sanjay302002/Planmart-)
+- Project B: [github.com/sanjay3020002/project-2](https://github.com/sanjay302002/Nesavu-Ecommerce)
+
 
 <!--
 **sanjay302002/sanjay302002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
