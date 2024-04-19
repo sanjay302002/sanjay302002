@@ -2,9 +2,9 @@
 A.SANJAY! 
 
 DevOps Engineer
-Email: asanjayarumugam77@email.com
+Email: sanjay.a2022cce@sece.ac.in
 Phone: (+91) 6380853637 
-GitHub: [[github](https://github.com/sanjay302002])
+GitHub: [github](https://github.com/sanjay302002])
 
 
 Skills:
