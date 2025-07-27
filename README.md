@@ -1,50 +1,20 @@
-# **A. Sanjay**  
-#### 🚀 *DevOps Engineer | Cloud Specialist | UI/UX Designer*  
-▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔  
-📧 **sanjay.a2022cce@sece.ac.in** | 📱 **+91 63808 53637**  
-🌐 **[Portfolio](https://sanjaya-portfolio.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/a-sanjay-98596622a/)** | **[GitHub](https://github.com/sanjay302002)**  
+<div align="center">
+  
+# 🚀 A. Sanjay
 
----
+**AWS | DevOps | Data Visualization**
 
-### **🛠️ Core Skills**  
-| **Cloud & DevOps** | **Development** | **Design & Analytics** |  
-|--------------------|----------------|-----------------------|  
-| • AWS (EC2, S3, IAM)  | • HTML/CSS/JS  | • Figma (UI/UX)       |  
-| • Docker & Jenkins    | • PHP, SQL     | • Power BI Dashboards |  
-| • CI/CD Pipelines     | • React        | • Data Visualization  |  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanjay302002&theme=dark)](https://git.io/streak-stats)
+  
+## 🔥 Featured Projects
 
----
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| [Planmart](https://github.com/sanjay302002/Planmart-) | AWS S3, PHP, SQL | [🌐 Visit](https://sanjay302002.github.io/Planmart-/) |
+| [LinkedIn Analyzer](https://github.com/sanjay302002/Linked-In-Analysis-till-2023) | Power BI, Python | [📊 View](https://sanjay302002.github.io/Linked-In-Analysis-till-2023/) |
 
-### **💼 Experience**  
-**☁️ 1CloudHub** — *AWS Cloud Intern*  
-*(2023 – Present)*  
-- Automated **cloud deployments** using Terraform, reducing setup time by **40%**.  
-- Managed **S3 buckets & RDS** for scalable storage solutions.  
+## 📬 Let's Connect
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=flat-square&logo=gmail)](mailto:sanjay.a2022cce@sece.ac.in)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/a-sanjay-98596622a)
 
-**🖥️ Electrocloud Labs** — *Full Stack Intern*  
-*(2023)*  
-- Built a **React + MongoDB** dashboard for real-time analytics.  
-- Reduced API latency by **25%** via query optimization.  
-
----
-
-### **🚀 Projects**  
-**🎯 Planmart** | `AWS` `PHP` `SQL`  
-- Event portal with **AWS S3 integration**; handled **500+ user sessions/month**.  
-
-**📊 LinkedIn Network Analyzer** | `Power BI`  
-- Interactive dashboard tracking **1K+ connections** with dynamic filters.  
-
----
-
-### **📜 Education & Certifications**  
-• **B.E. CCE** — SECE *(2022–2026)*  
-• **AWS Certified Cloud Practitioner** *(2024)*  
-• **Google Ads Certification** *(2024)*  
-
----
-
-### **🏆 Highlights**  
-✓ **Dr. Abdul Kalam Award** (Top 5% achievers)  
-✓ **HackerRank SQL Gold Badge**  
-✓ **Published ICERCS 2024 Paper**  
+</div>
